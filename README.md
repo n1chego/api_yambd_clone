@@ -1,5 +1,4 @@
-# api_yamdb
-api_yamdb
+![plot](./static/img/yambd-high-resolution-color-logo.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
