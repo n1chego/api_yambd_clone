@@ -1,4 +1,4 @@
-![plot](./static/img/yambd-high-resolution-color-logo.png)
+![plot](.api_yambd/static/img/yambd-high-resolution-color-logo.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
