@@ -25,6 +25,7 @@ INSTALLED_APPS = [
     'django_filters',
     'api',
     'titles',
+    'users',
 ]
 
 MIDDLEWARE = [
@@ -68,6 +69,9 @@ DATABASES = {
     }
 }
 
+# User model
+
+AUTH_USER_MODEL = 'users.User'
 
 # Password validation
 
