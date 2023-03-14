@@ -9,11 +9,13 @@ django-filter==22.1
 djangorestframework==3.12.4
 djangorestframework-simplejwt
 flake8
+gunicorn==20.0.4
 idna==3.4
 iniconfig==1.1.1
 mccabe==0.7.0
 packaging==22.0
 pluggy==0.13.1
+psycopg2-binary==2.8.6
 py==1.11.0
 pycodestyle==2.10.0
 pyflakes==3.0.1
